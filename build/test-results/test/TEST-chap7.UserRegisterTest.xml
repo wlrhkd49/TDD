@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chap7.UserRegisterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-17T12:18:45" hostname="jkjeongs-MacBook-Air.local" time="0.078">
+  <properties/>
+  <testcase name="가입하면 메일을 전송함" classname="chap7.UserRegisterTest" time="0.078"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
